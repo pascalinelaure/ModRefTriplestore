@@ -116,6 +116,7 @@ triplestores (CIDOC-CRM or not), such as: </p>
 <li> The <i>British Museum</i> (see http://collection.britishmuseum.org/), 
 which is a museum on history and culture located at London (UK) 
 and that uses the CIDOC-CRM </li> 
+<li> The <i>Yale Center for British Art</i> that uses the CIDOC-CRM. See https://britishart.yale.edu/collections/using-collections/technology/linked-open-data </li> 
 <li> <i>Arches</i> 
 (see http://www.getty.edu/conservation/our_projects/field_projects/arches/), 
 which is a collaboration between the Getty Conservation Institute (GCI) 
@@ -130,15 +131,14 @@ encyclopedia
 and that does not use the CIDOC-CRM norm but various metadata languages, such as: 
 dbpedia, foaf, umbel, schema.org, dublin core, geo 
 </li>   
-<li> <i>Symogih</i> (see http://www.symogih.org/sparql), which works on 
-history information 
-and that does not use the CIDOC-CRM norm but various metadata languages, such as: 
-symogih, example.org, geo 
-</li> 
 <li> <i>Nakala</i> (see http://www.nakala.fr/sparql), which is a service to store, 
 document and publish data 
 and that does not use the CIDOC-CRM norm but various metadata languages, such as: 
 foaf, skos, dublin core, vcard 
+</li> 
+<li> <i>Symogih</i> (see http://www.symogih.org/sparql), which works on 
+history information and that does not use the CIDOC-CRM norm but various metadata languages, such as: 
+symogih, example.org, geo 
 </li> 
 <!-- --> 
 </ul> 
@@ -269,6 +269,8 @@ triplestores (CIDOC-CRM ou non), parmi lesquels :
 <li> Le <i>British Museum</i> (cf. http://collection.britishmuseum.org/) 
 qui est un musée sur  l'histoire et la culture humaine situé à Londres au Royaume-Uni 
 et qui utilise le CIDOC-CRM </li> 
+<li> Le <i>Yale Center for British Art</i> qui utilise le CIDOC-CRM. 
+Voir https://britishart.yale.edu/collections/using-collections/technology/linked-open-data </li> 
 <li> <i>Arches</i> 
 (cf. http://www.getty.edu/conservation/our_projects/field_projects/arches/) 
 qui est une  collaboration entre le Getty Conservation Institute (GCI) 
@@ -282,16 +284,15 @@ et qui utilise le CIDOC-CRM </li>
 et qui n'utilise pas le CIDOC-CRM mais différents langages de métadonnées comme: 
 dbpedia, foaf, umbel, schema.org, dublin core, geo 
 </li>   
-<li> <i>Symogih</i> (cf. http://www.symogih.org/sparql) pour la gestion 
-de l'information historique 
-et qui n'utilise pas le CIDOC-CRM mais différents langages de métadonnées comme: 
-symogih, example.org, geo 
-</li> 
 <li> <i>Nakala</i> (cf. http://www.nakala.fr/sparql) qui est un service pour déposer, 
 documenter et diffuser des données  
 et qui n'utilise pas le CIDOC-CRM mais différents langages de métadonnées comme: 
 foaf, skos, dublin core, vcard 
 </li>
+<li> <i>Symogih</i> (cf. http://www.symogih.org/sparql) pour la gestion 
+de l'information historique et qui n'utilise pas le CIDOC-CRM mais différents 
+langages de métadonnées comme: symogih, example.org, geo 
+</li> 
 </ul> 
 
 
