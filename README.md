@@ -1,5 +1,5 @@
 # ModRefTriplestore
-Digital Humanities - Semantic Web - CIDOC-CRM Triplestores - ModRef Project: Modelling, References, Digital Culture - Laboratory Labex "Past in Present" - University of Paris Nanterre, France. See http://modref-labexpassespresent.huma-num.fr  
+Digital Humanities - Semantic Web - CIDOC-CRM Triplestores - ModRef Project: Modelling, References, Digital Culture - Laboratory Labex "Past in Present" - University of Paris Nanterre, France. See http://modref-labexpassespresent.huma-num.fr . 
 
 <p>
 ModRef Project (Modelling, Repository, Digital Culture) is a set of projects 
@@ -146,7 +146,7 @@ foaf, skos, dublin core, vcard
 
 # ModRefTriplestore FR 
 
-Humanités Numérique- Web Sémantique - CIDOC-CRM Triplestores - Projet ModRef: Modélisation, Références, Culture Numérique - Laboratoire Labex "Les Passés dans le Présent" - Université de Paris Nanterre, France. Voir http://modref-labexpassespresent.huma-num.fr 
+Humanités Numérique- Web Sémantique - CIDOC-CRM Triplestores - Projet ModRef: Modélisation, Références, Culture Numérique - Laboratoire Labex "Les Passés dans le Présent" - Université de Paris Nanterre, France. Voir http://modref-labexpassespresent.huma-num.fr . 
 
 <p>
 Le projet ModRef (Modélisation, Référentiels et Culture Numérique) fédère un ensemble de projets du Labex (Laboratoire d'Excellence, Les Passés dans le Présent : histoire, patrimoine, mémoires. Voir http://passes-present.eu/) 
